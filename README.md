@@ -13,4 +13,4 @@ Nexa Web Developer Recruitment
 
 ### 📱 Figma Design
 
-View the project figma [here]([https://whimsical.com/website-developer-2024-B2GW7qAuxvV6ataQoEXKwH](https://www.figma.com/proto/tBuWH3yXnHf88ZH1vSL0TX/Sriboga-Flour-Mill?node-id=6-6&t=XCoEUqi8VZ8sLqMB-1&scaling=contain&content-scaling=fixed)).
+View the project figma [here](https://whimsical.com/website-developer-2024-B2GW7qAuxvV6ataQoEXKwH](https://www.figma.com/proto/tBuWH3yXnHf88ZH1vSL0TX/Sriboga-Flour-Mill?node-id=6-6&t=XCoEUqi8VZ8sLqMB-1&scaling=contain&content-scaling=fixed).
